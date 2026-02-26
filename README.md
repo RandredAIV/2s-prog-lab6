@@ -153,14 +153,10 @@ in CFB (Cipher Feedback Mode).
 
 ---
 
-## Build and Run (C++)
+## How to Use
 
-g++ main.cpp -o lab6
-./lab6
-
----
-
-## Build and Run (Java)
-
-javac Main.java
-java Main
+1. Open the required source file.
+2. Compile the required source file.
+3. Run the program.
+4. Enter input parameters.
+5. View the results in the console.
